@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Environment variables and secrets
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+
+# Temporary test files
+.pytest_cache/
+
+# Processed or temporary data
+data/processed/
+data/raw_backup/
